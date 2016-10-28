@@ -161,11 +161,11 @@
     "redux-devtools": "^3.0.0-beta-3",
     "redux-devtools-dock-monitor": "^1.0.0-beta-3",
     "redux-devtools-log-monitor": "^1.0.0-beta-3",
-    "sass-loader": "^3.1.2",
+    "sass-loader": "^4.0.2",
     "sinon": "^1.17.2",
     "strip-loader": "^0.1.0",
     "style-loader": "^0.13.0",
-    "timekeeper": "1.0.0",
+    "timekeeper": "^1.0.0",
     "webpack": "^1.12.9",
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.5.0"
